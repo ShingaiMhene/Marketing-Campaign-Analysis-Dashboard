@@ -33,8 +33,8 @@ Traditional Campaigns
 2. Africa recorded the highest total revenue and spend compared to other regions.
 3. Digital campaigns accounted for the majority of total campaigns (62.5%).
 4. TV Commercials showed the lowest ROI performance despite considerable spending.
-5  Search Engine Marketing and Social Media Ads delivered strong ROI with balanced spending.
-6  South America generated the lowest revenue contribution.
+5.  Search Engine Marketing and Social Media Ads delivered strong ROI with balanced spending.
+6.  South America generated the lowest revenue contribution.
 Overall average ROI stood at 0.68, indicating moderate profitability across campaigns.
 
 ## Strategic Insights
@@ -43,7 +43,7 @@ Overall average ROI stood at 0.68, indicating moderate profitability across camp
 3. Focus expansion efforts in high-revenue regions such as Africa and Asia.
 4. Improve campaign targeting and audience segmentation to maximize ROI.
 5. Allocate more resources toward data-driven digital marketing strategies.
-6, Continuously monitor campaign efficiency to improve profitability and reduce wasteful spend.
+6. Continuously monitor campaign efficiency to improve profitability and reduce wasteful spend.
 ## Conclusion
 1. Digital marketing campaigns outperform traditional channels in ROI and effectiveness.
 2. Influencer Marketing presents the strongest growth opportunity for future investment.
