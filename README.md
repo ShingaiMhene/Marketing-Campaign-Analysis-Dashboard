@@ -27,6 +27,7 @@ Traditional Campaigns
 6. Developed KPI cards and performance comparisons for campaign analysis.
 ## Dashboard
 <img width="1338" height="741" alt="marketing analysis" src="https://github.com/user-attachments/assets/53d0a58d-0aca-40a1-a618-f29c4bbaed09" />
+
 ## Key Insights
 1. Influencer Marketing generated the highest ROI among all campaigns.
 2. Africa recorded the highest total revenue and spend compared to other regions.
@@ -35,8 +36,9 @@ Traditional Campaigns
 5  Search Engine Marketing and Social Media Ads delivered strong ROI with balanced spending.
 6  South America generated the lowest revenue contribution.
 Overall average ROI stood at 0.68, indicating moderate profitability across campaigns.
+
 ## Strategic Insights
-1.Increase investment in high-performing digital channels such as Influencer Marketing and Social Media Advertising.
+1. Increase investment in high-performing digital channels such as Influencer Marketing and Social Media Advertising.
 2. Optimize or reduce spending on underperforming campaigns like TV Commercials.
 3. Focus expansion efforts in high-revenue regions such as Africa and Asia.
 4. Improve campaign targeting and audience segmentation to maximize ROI.
