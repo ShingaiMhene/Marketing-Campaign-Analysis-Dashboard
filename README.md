@@ -3,7 +3,7 @@ A marketing company Turney Media needed a Data analyst to analyse campaign perfo
 ### Dataset useds
 <a href="https://github.com/ShingaiMhene/Marketing-Campaign-Analysis-Dashboard/blob/main/marketing%20campaign%20details.csv">Dataset1</a>
 <a href="https://github.com/ShingaiMhene/Marketing-Campaign-Analysis-Dashboard/blob/main/marketing%20campaign%20performance.csv">Dataset2</a>
-<a href="https://github.com/ShingaiMhene/Marketing-Campaign-Analysis-Dashboard/blob/main/marketing%20campaign%20details.csv)">Dataset3</a>
+<a href="https://github.com/ShingaiMhene/Marketing-Campaign-Analysis-Dashboard/blob/main/region%20performance.csv">Dataset3</a>
 
 ## Business Questions
 1. How does average income influence bike purchase decisions across gender?
